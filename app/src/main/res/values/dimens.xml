@@ -1,0 +1,21 @@
+<resources>
+    <dimen name="dimen_toolbar_height">48dp</dimen>
+    <dimen name="dimen_toolbar_btn_size">24dp</dimen>
+
+    <dimen name="dimen_text_size_huge">24sp</dimen>
+    <dimen name="dimen_text_size_biggest">20sp</dimen>
+    <dimen name="dimen_text_size_big">18sp</dimen>
+    <dimen name="dimen_text_size_middle">16sp</dimen>
+    <dimen name="dimen_text_size_small">14sp</dimen>
+    <dimen name="dimen_text_size_tiny">12sp</dimen>
+    <dimen name="dimen_main_tab_icon">30dp</dimen>
+    <dimen name="dimen_main_tab_text">12sp</dimen>
+    <dimen name="dimen_login_button_length">260dp</dimen>
+    <dimen name="dimen_long_button_height">45dp</dimen>
+
+    <dimen name="bullet_radius">2dp</dimen>
+    <dimen name="bullet_gap_width">8dp</dimen>
+    <dimen name="quote_stripe_width">8dp</dimen>
+    <dimen name="quote_gap_width">2dp</dimen>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">文件系统</string>
+    <string name="action_settings">Settings</string>
+    <string name="string_create_root_directory">创建根目录</string>
+    <string name="string_create_new_user">创建新用户</string>
+    <string name="string_switch_user">切换用户</string>
+    <string name="string_import_file">导入文件</string>
+    <string name="string_undo">撤销</string>
+    <string name="string_redo">恢复</string>
+    <string name="string_save">保存</string>
+
+</resources>

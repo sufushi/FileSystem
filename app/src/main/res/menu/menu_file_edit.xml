@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.rdc.project.filesystem.ui.FileEditActivity">
+
+    <item android:id="@+id/action_undo"
+          android:title="@string/string_undo"
+          android:icon="@drawable/ic_undo"
+          app:showAsAction="always">
+    </item>
+
+    <item android:id="@+id/action_redo"
+          android:title="@string/string_redo"
+          android:icon="@drawable/ic_redo"
+          app:showAsAction="always">
+    </item>
+
+    <item android:id="@+id/action_save"
+          android:title="@string/string_save"
+          android:icon="@drawable/ic_save"
+          app:showAsAction="always">
+    </item>
+
+</menu>

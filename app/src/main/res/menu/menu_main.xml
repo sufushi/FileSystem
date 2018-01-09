@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.rdc.project.filesystem.MainActivity">
+
+    <item
+        android:id="@+id/action_create_root_directory"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_add_root_directory"
+        android:title="@string/string_create_root_directory"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_create_new_user"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_add_new_user"
+        android:title="@string/string_create_new_user"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_switch_user"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_switch_user"
+        android:title="@string/string_switch_user"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_import_file"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_switch_user"
+        android:title="@string/string_import_file"
+        app:showAsAction="never"/>
+
+</menu>
